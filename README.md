@@ -21,14 +21,6 @@ Community‑curated collection of the best root apps and modules
 <details>
 <summary>👉 <strong>Tap to expand complete navigation</strong></summary>
 
-### 📚 Getting Started
-- [What is Root Access?](#what-is-root-access)
-- [Root Guide and Solutions](#root-guide-and-solutions)
-  - [Step-by-Step Process](#step-by-step-process)
-  - [Device-Specific Root Guides](#device-specific-root-guides)
-- [Essential Android Guides](#essential-android-guides)
-- [Glossary](#glossary)
-
 ### ⭐ Featured Essentials
 - [Featured Apps: The Essentials](#featured-apps-the-essentials)
 
@@ -158,14 +150,6 @@ Android rooting gives you **privileged administrative control** over your device
 
 This collection of guides will walk you through the entire rooting process, from unlocking your bootloader to advanced system modifications.
 
-### Core Rooting Process
-1.  **[🔓 Unlock Bootloader](./docs/android-root-guides/how-to-unlock-bootloader.md)** - The essential first step for all modifications.
-2.  **[🛠️ Install Custom Recovery](./docs/android-root-guides/how-to-install-custom-recovery.md)** - Flash TWRP, OrangeFox, or another custom recovery.
-3.  **[⚡ Root Your Device](./docs/android-root-guides/index.md#root-methods-comparison)** - Choose your preferred rooting method:
-    *   **[Magisk](./docs/android-root-guides/magisk-guide.md)** - The most popular systemless root solution.
-    *   **[KernelSU](./docs/android-root-guides/kernelsu-guide.md)** - A kernel-based root method.
-    *   **[APatch](./docs/android-root-guides/apatch-guide.md)** - An alternative kernel-patching solution.
-4.  **[🌟 Install Custom ROM](./docs/android-root-guides/custom-rom-installation.md)** _(Optional)_ - Completely transform your Android experience.
 
 ### Device-Specific & How-To Guides
 -   **Device-Specific Instructions:**

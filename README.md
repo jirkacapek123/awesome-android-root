@@ -37,21 +37,16 @@ Community‑curated collection of the best root apps and modules
 
 
 #### 🔧 **App Modifications**
-- [Bilibili Mods](#bilibili-mods)
 - [Discord Mods](#discord-mods)
 - [Duolingo Mods](#duolingo-mods)
 - [Grindr Mods](#grindr-mods)
 - [Instagram Mods](#instagram-mods)
-- [Line Mods](#line-mods)
 - [Maps Mods](#maps-mods)
-- [QQ Mods](#qq-mods)
 - [Reddit Mods](#reddit-mods)
 - [Telegram Mods](#telegram-mods)
 - [TikTok Mods](#tiktok-mods)
-- [WeChat Mods](#wechat-mods)
-- [Weibo Mods](#weibo-mods)
 - [WhatsApp Mods](#whatsapp-mods)
-- [X/Twitter Mods](#xtwitter-mods)
+- [X Mods](#x-mods)
 - [YouTube, Spotify, & Google Photos Mods](#youtube-spotify--google-photos-mods)
 - [General App Mods](#general-app-mods)
 - [Patching Tools](#patching-tools)

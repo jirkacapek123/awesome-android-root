@@ -50,6 +50,7 @@ Community‑curated collection of the best root apps and modules
 - [YouTube, Spotify, & Google Photos Mods](#youtube-spotify--google-photos-mods)
 - [General App Mods](#general-app-mods)
 - [Patching Tools](#patching-tools)
+- [ReVanced](#revanced)
 
 
 #### 🎵 **Audio & Media**
@@ -84,7 +85,7 @@ Community‑curated collection of the best root apps and modules
 - [Themes & UI](#themes-and-ui)
 
 #### 🧹 **System Management**
-- [Debloating & System App Removal](#debloating--system-app-removal)
+- [Debloating & App Removal](#debloating--system-app-removal)
 - [Kernel Management](#kernel-management)
 - [System Modifications](#system-modifications)
 
@@ -98,14 +99,14 @@ Community‑curated collection of the best root apps and modules
 #### 🌐 **Network & Connectivity**
 - [Firewall Tools](#firewall-tools)
 - [DNS Tools](#dns-tools)
-- [Hotspot/Tether](#hotspot-tools)
+- [Hotspot/Tethering](#hotspot-tools)
 - [Wi‑Fi Tools](#wi‑fi-tools)
 - [Location & GPS](#location--gps)
 - [NFC & Cards](#nfc--cards)
 
 #### 🛡️ **Security & Privacy**
 - [Privacy & Security](#privacy-and-security)
-- [ReVanced](#revanced)
+
 
 #### 🔓 **Root Management**
 - [Root Managers](#root-managers)
@@ -129,38 +130,11 @@ Community‑curated collection of the best root apps and modules
 
 </details>
 
-## What is Root Access?
 
-Android rooting gives you **privileged administrative control** over your device's subsystems—essentially becoming the "superuser" of your device, like administrator rights on a computer.
-
-### Why Root Your Android Device?
-- 🔓 **Freedom and Control** - Remove restrictions and customize everything
-- ⚡ **Enhanced Performance** - Optimize system performance and battery life
-- 🛡️ **Advanced Security and Privacy** - Control app permissions and data access
-- 🎨 **Complete Customization** - Themes, system modifications, and UI changes
-
-> 🚨 **Please read our [Important Notes Section](#important-notes) before continuing!**
 
 ## Rooting Guides & Resources
 
 This collection of guides will walk you through the entire rooting process, from unlocking your bootloader to advanced system modifications.
-
-
-### Device-Specific & How-To Guides
--   **Device-Specific Instructions:**
-    -   [Google Pixel](./docs/android-root-guides/how-to-root-pixel-phone.md)
-    -   [Samsung Galaxy](./docs/android-root-guides/how-to-root-samsung-phone.md)
-    -   [Xiaomi/MIUI](./docs/android-root-guides/how-to-root-xiaomi-phone.md)
-    -   [OnePlus](./docs/android-root-guides/how-to-root-oneplus-phone.md)
-    -   [Nothing Phone](./docs/android-root-guides/how-to-root-nothing-phone.md)
-    -   [Motorola](./docs/android-root-guides/how-to-root-motorola-phone.md)
--   **Essential How-To's:**
-    -   [Android Ad Blocking Guide](./docs/guides/android-adblocking.md)
-    -   [Android App Debloating](./docs/guides/android-apps-debloating.md)
-    -   [Stop Auto-Updates in Play Store](./docs/guides/stop-android-app-auto-updates-play-store.md)
-    -   [App Backup and Restore Using Root](./docs/guides/app-backup-restore-using-root.md)
-
-**[📖 View the Complete Rooting Master Guide →](./docs/android-root-guides/index.md)**
 
 ## Glossary
 - **⭐** = Community‑recommended (most popular/trusted in category)

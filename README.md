@@ -7,7 +7,6 @@ Community‑curated collection of the best root apps and modules
 
 ---
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/awesome-android-root/awesome-android-root?logo=github&style=for-the-badge&color=green)](https://github.com/awesome-android-root/awesome-android-root?ref=awesome-root.org)
 [![Total Entries](https://img.shields.io/badge/Total%20Entries-330+-blue?style=for-the-badge&logo=android)](#root-apps)
 
 <div class="quick-nav">
@@ -15,121 +14,6 @@ Community‑curated collection of the best root apps and modules
 **🚀 Quick Links:** [What is Root?](#what-is-root-access) • [Root Guides](#root-guide-and-solutions) • [Browse Apps/Modules](#root-apps) • [Community](#community-and-resources)
 
 </div>
-</div>
-
-## Table of Contents
-<details>
-<summary>👉 <strong>Tap to expand complete navigation</strong></summary>
-
-### ⭐ Featured Essentials
-- [Featured Apps: The Essentials](#featured-apps-the-essentials)
-
-### 📱 Root Apps by Category
-
-#### 🚫 **Ad & Content Blocking**
-- [Ad & Tracking Blockers](#ads-and-tracking-blockers)
-
-#### 📦 **App Management**
-- [App Isolation & Cloning](#app-isolation-and-cloning)
-- [App Managers & Control](#app-managers-and-control)
-- [App Stores](#app-stores)
-- [App Permissions](#app-permissions)
-
-
-#### 🔧 **App Modifications**
-- [Discord Mods](#discord-mods)
-- [Duolingo Mods](#duolingo-mods)
-- [Grindr Mods](#grindr-mods)
-- [Instagram Mods](#instagram-mods)
-- [Maps Mods](#maps-mods)
-- [Reddit Mods](#reddit-mods)
-- [Telegram Mods](#telegram-mods)
-- [TikTok Mods](#tiktok-mods)
-- [WhatsApp Mods](#whatsapp-mods)
-- [X Mods](#x-mods)
-- [YouTube, Spotify, & Google Photos Mods](#youtube-spotify--google-photos-mods)
-- [General App Mods](#general-app-mods)
-- [Patching Tools](#patching-tools)
-- [ReVanced](#revanced)
-
-
-#### 🎵 **Audio & Media**
-- [Audio & Media](#audio-and-media)
-
-#### ⚡ **Performance & System**
-- [Automation](#automation)
-- [Battery & Power Management](#battery-and-power-management)
-- [Performance & Gaming](#performance-and-gaming)
-- [System Optimization](#system-optimization)
-- [Memory & Storage Management](#memory-and-storage-management)
-
-#### 🗃️ **Storage & Data**
-- [Backup & Restore](#backup-and-restore)
-- [Cleaning & Maintenance](#cleaning-and-maintenance)
-- [File Managers](#file-management)
-
-#### 📞 **Communication**
-- [Call Recording](#call-recording)
-- [Contact Management](#contact-management)
-- [SMS Management](#sms-management)
-
-#### 🎨 **Customization**
-- [Boot Animations](#boot-animations)
-- [Fonts & Typography](#fonts-and-typography)
-- [Launchers](#launchers)
-- [Navigation](#navigation)
-- [OS Specific Mods](#os-specific-mods)
-  - [AOSP](#aosp-android-open-source-project) • [ColorOS](#coloros-oppo) • [Global](#global)
-  - [HyperOS](#hyperos-xiaomi) • [One UI](#one-ui-samsung) • [Onyx](#onyx)
-  - [Oxygen OS](#oxygen-os-oneplus)
-- [Themes & UI](#themes-and-ui)
-
-#### 🧹 **System Management**
-- [Debloating & App Removal](#debloating--system-app-removal)
-- [Kernel Management](#kernel-management)
-- [System Modifications](#system-modifications)
-
-#### 🛠️ **Developer & Technical**
-- [Development & Debugging](#development-and-debugging)
-- [Device Controls & Hardware](#device-controls--hardware)
-- [Terminal & Shell Environments](#terminal-and-shell-environments)
-- [Tools](#tools)
-- [Utilities](#utilities)
-
-#### 🌐 **Network & Connectivity**
-- [Firewall Tools](#firewall-tools)
-- [DNS Tools](#dns-tools)
-- [Hotspot/Tethering](#hotspot-tools)
-- [Wi‑Fi Tools](#wi‑fi-tools)
-- [Location & GPS](#location--gps)
-- [NFC & Cards](#nfc--cards)
-
-#### 🛡️ **Security & Privacy**
-- [Privacy & Security](#privacy-and-security)
-
-
-#### 🔓 **Root Management**
-- [Root Managers](#root-managers)
-- [Root Hiding & Integrity](#root-hiding--integrity)
-- [Root Detection Tools](#root-detection-tools)
-- [Bootloop Protection](#bootloop-protection)
-
-#### 📺 **Display and Screen**
-- [Screen and Display](#screen-and-display)
-
-### 📖 **Resources & Support**
-- [Important Notes](#important-notes)
-- [FAQs](#faqs)
-- [Community and Resources](#community-and-resources)
-  - [Premier Android Communities](#premier-android-communities)
-  - [Reddit Communities](#reddit-communities)
-  - [Official Project Resources](#official-project-resources)
-- [Contributing](#contributing)
-- [Stats](#stats)
-- [Support This Project](#support-this-project)
-
-</details>
-
 
 
 ## Rooting Guides & Resources
@@ -140,21 +24,11 @@ This collection of guides will walk you through the entire rooting process, from
 - **⭐** = Community‑recommended (most popular/trusted in category)
 - **`FOSS`** = Free and Open Source Software (source code available)
 - **`Proprietary`** = Closed-source software or unclear licensing
-- **`[M]`** = Magisk Module (requires [_Magisk framework_](./docs/android-root-guides/magisk-guide.md))
-- **`[K]`** = KernelSU Module (requires [_KernelSU framework_](./docs/android-root-guides/kernelsu-guide.md)) 
+- **`[MAG]`** = Magisk Module (requires [_Magisk framework_](./docs/android-root-guides/magisk-guide.md))
+- **`[KSU]`** = KernelSU Module (requires [_KernelSU framework_](./docs/android-root-guides/kernelsu-guide.md)) 
 - **`[LSP]`** = LSPosed Module (requires [_LSPosed framework_](./docs/android-root-guides/lsposed-guide.md))
 
 > _Apps are organized in alphabetical order within each category._
-
-
-## Root Apps
-> 💡 **New to Android Rooting?** Start with our [complete rooting guide](./docs/android-root-guides/index.md) before exploring the apps below.
-
-> ⚠️ **We strongly recommend installing *[Droid‑ify](https://github.com/Droid-ify/client/releases)* and [enabling the _IzzyOnDroid_ repo](https://apt.izzysoft.de/fdroid/) for private and easier app installs from this list.**
-
-> - Clicking on the app name directs to the **F‑Droid** (FOSS) or **Google Play Store** (proprietary) page.
-> - If an app is available both on F‑Droid and Google Play, the **F‑Droid link is preferred**.
-
 
 ### Featured Apps: The Essentials
 
@@ -164,7 +38,7 @@ If you've just rooted your device, start with these must-have applications. They
 | :--- | :--- | :--- |
 | **⭐ [Magisk](https://github.com/topjohnwu/Magisk)** | Root Management | The standard for systemless rooting, managing permissions, and installing modules. |
 | **⭐ [App Manager](https://github.com/MuntashirAkon/AppManager)** | App Control | A feature-packed tool to inspect, manage, and control every app on your device. |
-| **⭐ [MiXplorer](https://mixplorer.com/)** | File Management | The most powerful file manager for Android, with full root access capabilities. |
+| **⭐ [Total Commander](https://ghisler.ch)** | File Management | file manager for Android, with full root access capabilities. |
 | **⭐ [AdAway](https://adaway.org/)** | Ad Blocking | The classic, open-source ad blocker that uses the hosts file for system-wide blocking. |
 
 [↑ Back to top](#table-of-contents)
@@ -186,8 +60,8 @@ If you've just rooted your device, start with these must-have applications. They
 - **[Magisk Ad Blocking Module](https://github.com/pantsufan/Magisk-Ad-Blocking-Module)** - Magisk module to block ads on android. `FOSS` `[M]`
 - **[Re-Malwack](https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack)** - A fully-fledged ad-block module. Contains all your needs. `FOSS` `[M]`
 - **[StevenBlock](https://github.com/mikropsoft/StevenBlock)** - Ad Blocking Module for Android supporting Magisk, KernelSU and APatch. `FOSS` `[M]`
-- **[systemless-adblocker](https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker)** - Ultimate adblocker module derived from gloeyisk/systemless-hosts. `FOSS` `[M]`
-- **[Systemless hosts KernelSU module](https://github.com/symbuzzer/systemless-hosts-KernelSU-module)** - Required module to use applications such as AdAway on KernelSU and APatch. `FOSS` `[K]`
+- **[systemless-adblocker](https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker)** - Ultimate adblocker module derived from gloeyisk/systemless-hosts. `FOSS` `[MAG]`
+- **[Systemless hosts KernelSU module](https://github.com/symbuzzer/systemless-hosts-KernelSU-module)** - Required module to use applications such as AdAway on KernelSU and APatch. `FOSS` `[KSU]`
 
 [↑ Back to top](#table-of-contents)
 

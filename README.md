@@ -9,19 +9,13 @@ Community‑curated collection of the best root apps and modules
 
 [![Total Entries](https://img.shields.io/badge/Total%20Entries-330+-blue?style=for-the-badge&logo=android)](#root-apps)
 
-<div class="quick-nav">
-
-**🚀 Quick Links:** [What is Root?](#what-is-root-access) • [Root Guides](#root-guide-and-solutions) • [Browse Apps/Modules](#root-apps) • [Community](#community-and-resources)
-
-</div>
-
 
 ## Rooting Guides & Resources
 
 This collection of guides will walk you through the entire rooting process, from unlocking your bootloader to advanced system modifications.
 
 ## Glossary
-- **⭐** = Community‑recommended (most popular/trusted in category)
+- **⭐** = Curated by jirkacapek123 (repo forker)
 - **`FOSS`** = Free and Open Source Software (source code available)
 - **`Proprietary`** = Closed-source software or unclear licensing
 - **`[MAG]`** = Magisk Module (requires [_Magisk framework_](./docs/android-root-guides/magisk-guide.md))
@@ -41,13 +35,9 @@ If you've just rooted your device, start with these must-have applications. They
 | **⭐ [Total Commander](https://ghisler.ch)** | File Management | file manager for Android, with full root access capabilities. |
 | **⭐ [AdAway](https://adaway.org/)** | Ad Blocking | The classic, open-source ad blocker that uses the hosts file for system-wide blocking. |
 
-[↑ Back to top](#table-of-contents)
-
 ---
 
 ### Ads and Tracking Blockers
-> 📚 **Related Guide**: [Complete Android Ad Blocking Tutorial](./docs/guides/android-adblocking.md)
-
 - **⭐ [AdAway](https://f-droid.org/packages/org.adaway/)** - Open-source ad blocker using hosts file. `FOSS` | [📦 Source](https://github.com/AdAway/AdAway)
 - **[AdClose](https://github.com/Xposed-Modules-Repo/com.close.hook.ads/)** - Prevents the initial loading of the advertising SDK within the application and intercepts application advertising requests to block ads. `Proprietary` `[LSP]`
 - **[AdGuard](https://adguard.com/en/adguard-android/overview.html)** - Comprehensive ad blocking solution. `Proprietary`
